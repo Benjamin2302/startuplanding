@@ -1,0 +1,15 @@
+.btn-blue{
+  background-color: #3b9f78;
+  border-radius: 6px;
+  padding: 15px 20px;
+  color: white;
+  font-weight: normal;
+  font-family: 'Montserrat', sans serif;
+
+}
+
+.btn-blue-title:hover{
+  background-color: #B4FFB4;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+  color: #958053;
+}

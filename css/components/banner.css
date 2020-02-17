@@ -1,0 +1,38 @@
+.banner{
+  background-image: linear-gradient(-225deg, rgba(0,0,0,0.7) 15%, rgba(0,0,0,0.4) 50%),url(../../images/bottle.jpg);
+  color: white;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  margin: 0px;
+  padding: 180px 40px;
+  border-radius: 6px;
+
+
+}
+
+
+
+.banner h2{
+  font-size: 30px;
+  font-weight: lighter;
+  margin-bottom: 40px;
+}
+
+.btn-blue-title{
+  padding: 15px 20px;
+  background-color: #3b9f78;
+  border-radius: 6px;
+  color: white;
+  font-weight: normal;
+  font-family: 'Montserrat', sans serif;
+  margin-left: 50px;
+
+}
+
+.title-page{
+  font-size: 80px;
+  margin-bottom: 30px;
+}
+
+
